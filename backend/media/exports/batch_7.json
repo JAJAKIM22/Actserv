@@ -1,0 +1,54 @@
+{
+  "edited_data": {
+    "rows": [
+      {
+        "id": 1,
+        "email": "peterjajakim@gmail.com",
+        "is_staff": true,
+        "password": "pbkdf2_sha256$1200000$cShHKgtfy9I8856A7w9DRF$/IZ6fCIiaf2CRwsMLI3rxHBFY+J78UTiteoHmTGbQQQ=",
+        "is_active": true,
+        "last_name": "",
+        "created_at": "2026-04-14T06:41:25.881148+03:00",
+        "first_name": "",
+        "last_login": "2026-04-14T05:46:49.214798+03:00",
+        "is_superuser": true
+      },
+      {
+        "id": 3,
+        "email": "salomewak39@gmail.com",
+        "is_staff": false,
+        "password": "pbkdf2_sha256$1200000$EnovGMZb5hQAPUMyadfed9$bt+2pp+3E59JWv9VcJ0sx1QoseYtOuUM+T4AkXzfR9A=",
+        "is_active": true,
+        "last_name": "kimani",
+        "created_at": "2026-04-14T10:02:08.282069+03:00",
+        "first_name": "peter",
+        "last_login": null,
+        "is_superuser": false
+      },
+      {
+        "id": 4,
+        "email": "john@gmail.com",
+        "is_staff": true,
+        "password": "pbkdf2_sha256$1200000$4Kx8Bj4tjEKmzKPJ8E1wFV$3mpDdq8/qFm8/vmLuIsFuymECHEOHylDsam3Sg59f1o=",
+        "is_active": true,
+        "last_name": "Test",
+        "created_at": "2026-04-14T12:08:56.361670+03:00",
+        "first_name": "John",
+        "last_login": null,
+        "is_superuser": false
+      }
+    ],
+    "columns": [
+      "id",
+      "password",
+      "last_login",
+      "is_superuser",
+      "first_name",
+      "last_name",
+      "email",
+      "is_staff",
+      "is_active",
+      "created_at"
+    ]
+  }
+}

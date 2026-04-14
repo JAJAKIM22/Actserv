@@ -1,0 +1,14 @@
+{
+  "edited_data": {
+    "rows": [],
+    "columns": [
+      "id",
+      "file_path",
+      "format",
+      "source_meta",
+      "created_at",
+      "batch_job_id",
+      "owner_id"
+    ]
+  }
+}

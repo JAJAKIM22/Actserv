@@ -1,0 +1,54 @@
+{
+  "edited_data": {
+    "rows": [
+      {
+        "id": 1,
+        "format": "json",
+        "owner_id": 1,
+        "file_path": "exports/batch_2.json",
+        "created_at": "2026-04-14T10:19:54.462619+03:00",
+        "source_meta": {
+          "table": "files_storedfile",
+          "db_type": "postgresql",
+          "connection": "Mysql"
+        },
+        "batch_job_id": 2
+      },
+      {
+        "id": 2,
+        "format": "json",
+        "owner_id": 1,
+        "file_path": "exports/batch_6.json",
+        "created_at": "2026-04-14T12:34:29.296356+03:00",
+        "source_meta": {
+          "table": "accounts_user",
+          "db_type": "postgresql",
+          "connection": "Postgres"
+        },
+        "batch_job_id": 6
+      },
+      {
+        "id": 3,
+        "format": "json",
+        "owner_id": 1,
+        "file_path": "exports/batch_7.json",
+        "created_at": "2026-04-14T12:49:57.398478+03:00",
+        "source_meta": {
+          "table": "accounts_user",
+          "db_type": "postgresql",
+          "connection": "Postgres"
+        },
+        "batch_job_id": 7
+      }
+    ],
+    "columns": [
+      "id",
+      "file_path",
+      "format",
+      "source_meta",
+      "created_at",
+      "batch_job_id",
+      "owner_id"
+    ]
+  }
+}
